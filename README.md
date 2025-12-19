@@ -1,3 +1,9 @@
 run Cheatsheet.uproject<br>
 open Content Drawer<br>
-open All -> Content -> Root -> B_BaseActor<br>
+open All -> Content -> Root
+
+blueprint nodes in:<br>
+B_BaseActor<br>
+
+material nodes in:<br>
+M_Material<br>
